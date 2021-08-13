@@ -1,0 +1,28 @@
+.main{
+    text-align: center;
+}
+h1{
+   background-color: goldenrod;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: left;
+    margin-top: 50px;
+}
+.card{
+    margin:5px;
+    height: 285px;
+}
+.button{
+    border: none;
+    margin:8px;
+    border:1px solid grey;
+    width:45px;
+    background-color:unset;
+}
+
+/* .active{
+    background-color: greenyellow;
+} */
